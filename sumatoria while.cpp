@@ -11,6 +11,6 @@ int main()
 		r= r +( 2 * k) ;     //edite la sumatoria
 				cout << r << endl;
 			k++;
-    
+	}   
     return 0;
     }
